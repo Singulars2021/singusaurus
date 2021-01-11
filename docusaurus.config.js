@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://Singulars2021.github.io',
-  baseUrl: '/singusaurus/index.html/',
+  baseUrl: '/singusaurus/',
   onBrokenLinks: 'throw', 
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

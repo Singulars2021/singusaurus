@@ -54,6 +54,7 @@ module.exports = {
               label: 'Singulars 2021',
               href: 'https://github.com/Singulars2021'
             },
+            {
               label: 'Daily',
               to: 'blog'
             },

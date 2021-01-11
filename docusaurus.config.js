@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'The tagline of my site',
   url: 'https://Singulars2021.github.io',
   baseUrl: '/singusaurus/index.html/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'throw', 
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Singulars2021', // Usually your GitHub org/user name.

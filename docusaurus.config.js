@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Singusaurus',
+  tagline: 'Hi there! Welcome to Singusaurus, the great repository created by Singulars 2021',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'https://github.com/Singulars2021/singusaurus', // Usually your GitHub org/user name.
+  projectName: 'singusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Singusaurus',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -36,6 +36,7 @@ module.exports = {
         {
           title: 'Docs',
           items: [
+
             {
               label: 'Style Guide',
               to: 'docs/',
@@ -47,37 +48,20 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Singulars 2021',
+              href: 'https://github.com/Singulars2021',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Singusaurus',
+              href: 'https://github.com/Singulars2021/singusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Singusaurus, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Singusaurus',
+  tagline: 'Hi there! Welcome to Singusaurus, the great repository created by Singulars 2021',
   url: 'https://Singulars2021.github.io',
   baseUrl: '/singusaurus/',
-  onBrokenLinks: 'throw', 
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Singulars2021', // Usually your GitHub org/user name.
   projectName: 'singusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Singusaurus',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -36,6 +36,7 @@ module.exports = {
         {
           title: 'Docs',
           items: [
+
             {
               label: 'Style Guide',
               to: 'docs/',
@@ -47,37 +48,19 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
-              label: 'Daily',
-              to: 'blog',
+              label: 'Singulars 2021',
+              href: 'https://github.com/Singulars2021'
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Daily',
+              to: 'blog'
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Singusaurus, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

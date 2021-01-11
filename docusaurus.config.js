@@ -1,13 +1,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  url: 'https://Singulars2021.github.io',
+  baseUrl: '/singusaurus/',
+  onBrokenLinks: 'throw', 
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Singulars2021', // Usually your GitHub org/user name.
+  projectName: 'singusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -22,7 +22,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Daily', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -67,7 +67,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Daily',
               to: 'blog',
             },
             {
@@ -94,7 +94,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Singulars2021/singusaurus/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

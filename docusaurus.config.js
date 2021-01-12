@@ -3,7 +3,7 @@ module.exports = {
   tagline:
     "Hi there! Welcome to Singusaurus, the great repository created by Singulars 2021",
   url: "https://Singulars2021.github.io",
-  baseUrl: "/",
+  baseUrl: "/singusaurus/index.html",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",

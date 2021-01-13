@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     // CSS: ['SASS','Bootstrap'],
-    // JAVASCRIPT: ['Eventos', 'Jquery', 'Métodos de array', 'Objetos y clases'],
+     JavaScript: ['javascript_jquery'],
     // GIT: ['Git_1'],
     SingSaurus: ['singusaurus']
   },

@@ -1,7 +1,7 @@
 # Singulars
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
-[Live Site](https://github.com/Singulars2021/singusaurus/deployments/activity_log?environment=github-pages)
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.  
+[Live Site](https://singulars2021.github.io/singusaurus/)
 
 ## Installation
 

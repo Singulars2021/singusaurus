@@ -33,9 +33,9 @@ Adding CDN code for minified jQuery lib. you can copy and past it into the head 
 
 You can find all the jQuery versions [here](https://code.jquery.com/jquery/).
 
-Example:
+Google is an example of someone who host jQuery:
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   
 
 ##### :point_right:   Downloading jQuery

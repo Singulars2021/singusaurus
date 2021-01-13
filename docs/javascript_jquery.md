@@ -20,7 +20,7 @@ slug: /
 
   
 
-#### 1. How do you install/use jQuery?
+#### 2. How do you install/use jQuery?
     
 
   

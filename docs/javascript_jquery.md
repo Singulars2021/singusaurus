@@ -31,7 +31,7 @@ There’s three easy ways for installing jQuery:
 
 Adding CDN code for minified jQuery lib. you can copy and past it into the head section on your HTML page.
 
-You can find all the jQuery versions [here](https://code.jquery.com/jquery/).
+You can find all the jQuery versions [here](https://code.jquery.com/).
 
 Google is an example of someone who host jQuery:
 

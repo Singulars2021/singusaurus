@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Singulars2021.github.io/blog</id>
-    <title>Singusaurus Blog</title>
+    <title>SinguSaurus Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Singulars2021.github.io/blog"/>
-    <subtitle>Singusaurus Blog</subtitle>
+    <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[11-01-2021]]></title>

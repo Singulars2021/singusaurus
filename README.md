@@ -25,6 +25,9 @@ npm build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+## Doc style guide
+The style guide has been defined in this [issue](https://github.com/Singulars2021/singusaurus/issues/15).
+
 ## Deployment
 
 ```console

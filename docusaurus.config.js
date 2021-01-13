@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Singusaurus",
+  title: "SinguSaurus",
   tagline:
     "Hi there! Welcome to Singusaurus, the great repository created by Singulars 2021",
   url: "https://Singulars2021.github.io",
@@ -11,9 +11,9 @@ module.exports = {
   projectName: "singusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Singusaurus",
+      title: "SinguSaurus",
       logo: {
-        alt: "My Site Logo",
+        alt: "Logo SinguSaurus",
         src: "img/logo.svg",
       },
       items: [
@@ -25,7 +25,7 @@ module.exports = {
         },
         { to: "blog", label: "Daily", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/Singulars2021/singusaurus",
           label: "GitHub",
           position: "right",
         },
@@ -38,7 +38,7 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "Documentation",
               to: "docs/",
             }
           ],
@@ -57,7 +57,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Singusaurus, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SinguSaurus, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -68,7 +68,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+            "https://github.com/Singulars2021/singusaurus/tree/main/docs",
         },
         blog: {
           showReadingTime: true,

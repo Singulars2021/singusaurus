@@ -1,10 +1,10 @@
 ---
 id: javascript_jquery
 title: JQuery
-slug: /
+slug: /javascript_jquery
 ---
 
-### A) Please explain with your own words the following questions:
+### JQuery Basics   
 
 #### 1) What is jQuery?
 
@@ -56,35 +56,35 @@ This will install jQuery in the node_modules directory. Within node_modules/jque
 This will install the default being bower_components. Within bower_components/jquery/dist/ you will find an uncompressed release, a compressed release, and a map file. If you want more information about how to download and install Jquery, [watch this video.](https://www.google.com/search?q=youtube+install+jquery&oq=youtube+install+jquery&aqs=chrome..69i57j69i64.3477j1j4&sourceid=chrome&ie=UTF-8)
 
 #### 3) What is a library?
+
 A library is a set of code that someone was previously written, that can be called upon when you're building your own projects. The goal is to streamline development, make it easier.
 
 The libraries may include configuration data, documentation, help data, message templates, pre-written code and subroutines, classes, values or type specifications.
-#### 4) Which elements does this CSS selector retrieve in Jquery? :heavy_dollar_sign:
-jQuery supports most CSS3 selectors, as well as some non-standard selectors. You can find it all in [w3chool](https://www.w3schools.com/jquery/jquery_ref_selectors.asp). Let’s take a look between jQuery and Vanilla Javascript differences:
 
-```
+#### 4) Which elements does this CSS selector retrieve in Jquery? :heavy_dollar_sign:
+
+jQuery supports most CSS3 selectors, as well as some non-standard selectors. You can find it all in [w3school](https://www.w3schools.com/jquery/jquery_ref_selectors.asp). Let’s take a look between jQuery and Vanilla Javascript differences:
+
+```javascript
     // jQuery
     var divs = $('div')
-
-
 
     // Vanilla
     var divs = document.querySelectorAll('div')
 
-
-
     // jQuery
     var newDiv = $('<div/>')
 
-
-
     // Vanilla
-    var newDiv = document.createElement('div'
-```
+    var newDiv = document.createElement('div')
+    
+
 ##### For example, you can select element by ID:
+
+```javascript
+$( "#myId" ); // Note IDs must be unique per page.
 ```
-    $( "#myId" ); // Note IDs must be unique per page.
-```
+
 ##### By Attribute:
 ```
     $( "input[name='first_name']" );
@@ -165,11 +165,13 @@ As a rule, toggleClass() method checks each element for the specified class name
 
     </script>
 ```
-### B) Attach a GitHub project of your own solved using JQuery.
 
-[My project](https://github.com/claudiaballano/BMI-calculator/blob/main/script.js)
+### GitHub project of your own solved using JQuery.
 
-### C) Make some research and link some JQuery learning resource
+
+[My project](https://github.com/claudiaballano/BMI-calculator)
+
+### JQuery learning resource
 
 - Youtube video about a [**crash course**](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) in order to learn JQuery
 

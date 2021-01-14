@@ -3,6 +3,7 @@ module.exports = {
     // CSS: ['SASS','Bootstrap'],
      JavaScript: ['javascript_jquery'],
     // GIT: ['Git_1'],
-    SingSaurus: ['singusaurus']
+    SingSaurus: ['singusaurus'],
+    "Problem Solving": ['problemsolving']
   },
 };

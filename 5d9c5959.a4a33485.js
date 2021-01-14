@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{80:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docsaurus - JQuery (Flip a Coin)","permalink":"/singusaurus/blog/2021/01/13/jquery"},{"title":"Docsaurus - JQuery","permalink":"/singusaurus/blog/2021/01/11/docusarus"}]}')}}]);

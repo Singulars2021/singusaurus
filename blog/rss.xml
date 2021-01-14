@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Wed, 13 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Classes in JavaScript]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/14/clases</link>
+            <guid>Classes in JavaScript</guid>
+            <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Docsaurus - JQuery (Flip a Coin)]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/13/jquery</link>

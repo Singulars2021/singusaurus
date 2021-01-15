@@ -4,6 +4,7 @@ module.exports = {
      JavaScript: ['javascript_jquery'],
     // GIT: ['Git_1'],
     SingSaurus: ['singusaurus'],
-    "Problem Solving": ['problemsolving']
+    "Problem Solving": ['problemsolving'],
+    "Package managers": ['packagemanagers_npm']
   },
 };

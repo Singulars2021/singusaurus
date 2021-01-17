@@ -53,3 +53,16 @@ Npm Enterprise requires npm 4.4.x or greater. To download the latest version of 
 To see if you already have npm installed and check the installed version, run the following commands:
 
 `npm -v`
+### NPM learning resource
+
+- Link a Github repository with the tag [**awesome**](https://github.com/sindresorhus/awesome-npm) about NPM.
+
+- Youtube video about a [**guide fast**](https://www.youtube.com/watch?v=4aNA8ZHihFE) to learn NPM.
+
+### :pushpin: External links
+
+Build amazing things (n.d.). Retrieved January 13, 2021, from [npmjs.com](https://www.npmjs.com/)
+
+What is NPM? (n.d.). Retrieved January 13, 2021, from [W3SCHOOLS](https://www.w3schools.com/nodejs/nodejs_npm.asp)
+
+Library (computing) - Wikipedia. (n.d.). Retrieved January 13, 2021, from [Wiki NPM)](https://es.wikipedia.org/wiki/Npm)

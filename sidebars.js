@@ -1,9 +1,9 @@
 module.exports = {
   someSidebar: {
     // CSS: ['SASS','Bootstrap'],
-     JavaScript: ['javascript_jquery'],
+     JavaScript: ['javascript_jquery','javascript_npm'],
     // GIT: ['Git_1'],
-    SingSaurus: ['singusaurus'],
+    SingSaurus: ['singusaurus'], 
     "Problem Solving": ['problemsolving'],
     "Package managers": ['packagemanagers_npm']
   },

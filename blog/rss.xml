@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 15 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JavaScript static methods and Vue events]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/18/static-clases-vue-events</link>
+            <guid>JavaScript static methods and Vue events</guid>
+            <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Classes in JavaScript - II]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/15/clases-2</link>

@@ -6,6 +6,5 @@ module.exports = {
     SingSaurus: ['singusaurus'], 
     "Problem Solving": ['problemsolving'],
     "Package managers": ['packagemanagers_npm'],
-    Vue: ['vue_directives']
   },
 };

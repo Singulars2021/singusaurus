@@ -1,21 +1,22 @@
 ---
 id: javascript_classes
-title: JavaScript classes and objects
+title: Classes and objects
 slug: /javascript_classes
 ---
 
-## How do you define a class in JavaScript?
+### How do you define a class in JavaScript?
 
-## What is a class property?  
+### What is a class property?  
 
-## What does mean to instatiate an object of a class?
+### What does mean to instatiate an object of a class?
 
-## What is a class method and how do you use it ? Can methods in classes access to class properties? How?
+### What is a class method and how do you use it ? Can methods in classes access to class properties? How?
 
-## What is the difference between a __normal__ class method and a static method?
+### What is the difference between a __normal__ class method and a static method?
 
+### How do you define a subclass in JavaScript?
 
-## Resources
+### Resources
 Attach below some resources to:
 
 ### General info about how to use classes in JavaScript

@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Singulars2021.github.io/blog</id>
     <title>SinguSaurus Blog</title>
-    <updated>2021-01-19T00:00:00.000Z</updated>
+    <updated>2021-01-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Singulars2021.github.io/blog"/>
     <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Getters, Setters and conditional DOM]]></title>
+        <id>Getters, Setters and conditional DOM</id>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2021/01/20/getters-setters-conditional-dom-vue"/>
+        <updated>2021-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Subclasses in JavaScript and Vue]]></title>
         <id>Subclasses in JavaScript and Vue</id>
-        <link href="https://Singulars2021.github.io/singusaurus/blog/2021/01/19/subclasses-vue-computed"/>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2021/01/19/subclasses-vue-computed copy"/>
         <updated>2021-01-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>
     </entry>

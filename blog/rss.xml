@@ -4,12 +4,19 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 19 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Getters, Setters and conditional DOM]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/20/getters-setters-conditional-dom-vue</link>
+            <guid>Getters, Setters and conditional DOM</guid>
+            <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Subclasses in JavaScript and Vue]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/19/subclasses-vue-computed</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/19/subclasses-vue-computed copy</link>
             <guid>Subclasses in JavaScript and Vue</guid>
             <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

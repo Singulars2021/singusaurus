@@ -4,12 +4,19 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Wed, 20 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Game library exercise, project confirmation, Vue list rendering]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/21/out-of-the-blue-project-list-vue-rendering</link>
+            <guid>Game library exercise, project confirmation, Vue list rendering</guid>
+            <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Getters, Setters and conditional DOM]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/20/getters-setters-conditional-dom-vue</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/20/getters-setters-conditional-dom-vue copy</link>
             <guid>Getters, Setters and conditional DOM</guid>
             <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

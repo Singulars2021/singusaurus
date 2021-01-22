@@ -4,12 +4,19 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 21 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Vue v-for directive and project prototype]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/22/vue-for-project</link>
+            <guid>Vue v-for directive and project prototype</guid>
+            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Game library exercise, project confirmation, Vue list rendering]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/21/out-of-the-blue-project-list-vue-rendering</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/21/out-of-the-blue-project-list-vue-rendering copy</link>
             <guid>Game library exercise, project confirmation, Vue list rendering</guid>
             <pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

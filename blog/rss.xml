@@ -4,12 +4,26 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 22 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Firebird and Notes app]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/26/firebird-vue-class-fetch</link>
+            <guid>Firebird and Notes app</guid>
+            <pubDate>Tue, 26 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue exercises]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/25/more-vue-exercices copy 2</link>
+            <guid>Vue exercises</guid>
+            <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Vue v-for directive and project prototype]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/22/vue-for-project</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/22/vue-for-project copy</link>
             <guid>Vue v-for directive and project prototype</guid>
             <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

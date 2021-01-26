@@ -1,0 +1,22 @@
+---
+id: vue_exercises
+title: Vue Exercises
+slug: /vue_exercises
+---
+
+## Flash Cards
+
+![Flash Card](https://oscarm.tinytake.com/media/f1e1e5?filename=1611649073764_TinyTake26-01-2021-09-17-50_637472458734715475.png&sub_type=thumbnail_preview&type=attachment&width=445&height=539)
+
+A project where you can create flash cards to study.  
+
+
+* [Exercise files](https://github.com/omiras/flash-oop-project/tree/main)
+* [Solution](https://github.com/omiras/flash-oop-project/tree/solution) using watchers to update the state
+* [Solution](https://github.com/claudiaballano/flash-oop
+) provided by [Claudia Ballano](https://github.com/claudiaballano) updating localStorage after each update in the state.
+
+## Background slider
+![slider](/img/vue-slideshow.png)
+An image carousel implemented with navigation buttons.
+Implemented by [Eduard Garcia](https://github.com/GoatBass/background-slider-vue)

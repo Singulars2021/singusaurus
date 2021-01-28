@@ -20,3 +20,8 @@ A project where you can create flash cards to study.
 ![slider](/img/vue-slideshow.png)
 An image carousel implemented with navigation buttons.
 Implemented by [Eduard Garcia](https://github.com/GoatBass/background-slider-vue)
+
+## Background Color Switcher
+![switcher](/img/JavaScript-Background-Color-Switcher.png)
+A four-button background color switcher implemented with event listener.
+Implemented by [Silvia Gutierrez](https://github.com/silviagb2/vue_background-color-switcher)

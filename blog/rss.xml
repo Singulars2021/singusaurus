@@ -4,13 +4,27 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 26 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Firebird and Notes app]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/26/firebird-vue-class-fetch</link>
-            <guid>Firebird and Notes app</guid>
+            <title><![CDATA[More on vue directives and transitions]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/28/vue-directives-transitions</link>
+            <guid>More on vue directives and transitions</guid>
+            <pubDate>Thu, 28 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Challanges Vue]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/27/challanges_vue copy</link>
+            <guid>Challanges Vue</guid>
+            <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Firebase and Notes app]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/26/firebird-vue-class-fetch copy</link>
+            <guid>Firebase and Notes app</guid>
             <pubDate>Tue, 26 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>
         </item>

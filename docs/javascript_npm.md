@@ -53,6 +53,34 @@ To install Npm on Mac, you will need to open a terminal window and follow the st
 
 ##### 4. Finally, run the npm -v commands to verify that npm has been installed correctly:
 `$ npm -v 6.14.4`
+
+### 5. Have a look at this [package.json](https://github.com/Singulars2021/singusaurus/blob/main/package.json). What is the purpouse of the __dependencies__ field?
+
+It is what is necessary for the project to work and at the same time allows the download of these through a simple command.
+### 6. Once you download a Github with a package.json, how can you install all the dependencies of this project?
+
+El comando para instalar las dependencias:
+`npm install`
+### 7. How can you run a script described in the __scripts__ field of the package.json file? (You can use our previous file example)
+
+In this way the script "serve" is executed:
+`npm run serve`
+
+### 8. Imagine we want to use this [SCSS compiler](https://www.npmjs.com/package/sass) **globally in our computer**. How do you install it with NPM so you can execute the compier in any folder/project?
+
+You can install Sass globally using:
+ In this way the script "serve" is executed:
+`npm install -g sass ` which will provide access to the sass executable. You can also add it to your project using `npm install --save-dev sass`.
+### 9. Find a command with NPM that will tell you all the packages that you have installed **globally** in your computer
+
+`npm list -g --depth 0`
+
+Let’s break this line down a little bit, shall we?
+
+* npm: the Node package manager command line tool.
+* list -g: display a tree of every package found in the user’s folders (without the -g option it only shows the current directory’s packages).
+* — depth 0 / — depth=0: avoid including every package’s dependencies in the tree view.
+
 #### Use npm to . . .
 
 * Adapt packages of code for your apps, or incorporate packages as they are.
@@ -73,6 +101,8 @@ To install Npm on Mac, you will need to open a terminal window and follow the st
 - Link a Github repository with the tag [**awesome**](https://github.com/sindresorhus/awesome-npm) about NPM.
 
 - Youtube video about a [**guide fast**](https://www.youtube.com/watch?v=4aNA8ZHihFE) to learn NPM.
+
+-  [**Cheatsheet**](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/) about how the use the most common command in NPM
 
 ### :pushpin: External links
 

@@ -13,7 +13,7 @@ A project where you can create flash cards to study.
 
 * [Exercise files](https://github.com/omiras/flash-oop-project/tree/main)
 * [Solution](https://github.com/omiras/flash-oop-project/tree/solution) using watchers to update the state
-* [Solution](https://github.com/claudiaballano/flash-oop
+* [Solution](https://github.com/claudiaballano/Front_End/tree/master/Frameworks_JavaScript/Vue/01_Flash_Oop_Project
 ) provided by [Claudia Ballano](https://github.com/claudiaballano) updating localStorage after each update in the state.
 
 ## Background slider

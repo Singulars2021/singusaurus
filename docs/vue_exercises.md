@@ -31,3 +31,9 @@ Implemented by [Silvia Gutierrez](https://github.com/silviagb2/vue_background-co
 
 The objective of this JavaScript project is to create a message that responds to your local time.
 Implemented by [Júlia Martínez](https://github.com/juliverd59)
+
+## Monster Slayer
+![monster-slayer](/img/monster-slayer-preview.PNG)
+
+A cool and fun monster slayer game which involves the implementation of all basic concepts of Vue.
+by [Dídac](https://github.com/didac3141592/Vue/tree/main/Monster%20Slayer)

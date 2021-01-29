@@ -27,6 +27,6 @@ A four-button background color switcher implemented with event listener.
 Implemented by [Silvia Gutierrez](https://github.com/silviagb2/vue_background-color-switcher)
 
 ## Dynamic Time Message
-![time message](/img/Dynamic_Time_Message.png)
+![time message](/static/img/Dynamic_Time_Message.png)
 The objective of this JavaScript project is to create a message that responds to your local time.
 Implemented by [Júlia Martínez](https://github.com/juliverd59)

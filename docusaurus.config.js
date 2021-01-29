@@ -71,7 +71,7 @@ module.exports = {
             "https://github.com/Singulars2021/singusaurus/tree/main/docs",
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           editUrl:
             "https://github.com/Singulars2021/singusaurus/tree/main/blog",

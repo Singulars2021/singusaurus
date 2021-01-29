@@ -1,12 +1,12 @@
 ---
 id: problemsolving
-title: Problem Solving
+title: Whack-a-mole
 slug: /problemsolving
 ---
 
-## Whack-a-mole
-
 ### Summary
+
+The aim of this exercise is to **think** about how to solve a problem without actually thinking how to solve it using any programming language.
 
 We want to implement a game which consist in [smashing some moles](https://romeojeremiah.github.io/whack-a-mole/)
 

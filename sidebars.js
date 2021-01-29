@@ -4,7 +4,6 @@ module.exports = {
      JavaScript: ['javascript_jquery','javascript_npm', 'javascript_classes','javascript_whack_a_mole'],
     SingSaurus: ['singusaurus'], 
     "Problem Solving": ['problemsolving'],
-    "Package managers": ['packagemanagers_npm'],
     "VUE": ['vue_exercises', 'vue_challanges', "vue_resources"],
   },
 };

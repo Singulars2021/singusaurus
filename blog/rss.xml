@@ -4,12 +4,26 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 28 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Array practice and Vue Components]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/01/array-practice-vue-components</link>
+            <guid>Array practice and Vue Components</guid>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Finish Vue challange and work on Tender project]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/29/finish-challange-work-on-tender-project copy</link>
+            <guid>Finish Vue challange and work on Tender project</guid>
+            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[More on vue directives and transitions]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/28/vue-directives-transitions</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/01/28/vue-directives-transitions copy</link>
             <guid>More on vue directives and transitions</guid>
             <pubDate>Thu, 28 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

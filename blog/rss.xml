@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vue refactor, Vue Cli/templates, Custom Events]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/03/vue-refactor-cli-events</link>
+            <guid>Vue refactor, Vue Cli/templates, Custom Events</guid>
+            <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Array practice and Vue Components]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/01/array-practice-vue-components</link>

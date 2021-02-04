@@ -37,3 +37,9 @@ Implemented by [Júlia Martínez](https://github.com/juliverd59)
 
 A cool and fun monster slayer game which involves the implementation of all basic concepts of Vue.
 by [Dídac](https://github.com/didac3141592/Vue/tree/main/Monster%20Slayer)
+
+## Balloon Popping Game
+![balloon-popping-game](/img/balloon-popping-game.png)
+
+A game that consists of popping all the balloons, being able to inflate them again at any time or at the end of the game when reset. It's made with Vue.
+by [Marc](https://github.com/mbellydo)

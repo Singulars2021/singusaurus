@@ -43,3 +43,9 @@ by [Dídac](https://github.com/didac3141592/Vue/tree/main/Monster%20Slayer)
 
 A game that consists of popping all the balloons, being able to inflate them again at any time or at the end of the game when reset. It's made with Vue.
 by [Marc](https://github.com/mbellydo)
+
+## Calculator
+![calculator](/img/calculator.png)
+
+Simple Calculator which functionallity is made with Vue and does what calculators are supposed to do.
+by [Diego Lajusticia](https://github.com/diegolajus/Calculator-Vue)

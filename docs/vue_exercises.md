@@ -45,7 +45,7 @@ A game that consists of popping all the balloons, being able to inflate them aga
 by [Marc](https://github.com/mbellydo)
 
 ## Calculator
-![calculator](/img/calculator.png)
+![calculator](/img/calculator.jpg)
 
 Simple Calculator which functionallity is made with Vue and does what calculators are supposed to do.
 by [Diego Lajusticia](https://github.com/diegolajus/Calculator-Vue)

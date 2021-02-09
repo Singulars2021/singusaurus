@@ -4,12 +4,40 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Wed, 03 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Vue  components and form communication]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/09/vue-components-communication</link>
+            <guid>Vue  components and form communication</guid>
+            <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue dynamic components]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/08/vue-dynamic-components copy</link>
+            <guid>Vue dynamic components</guid>
+            <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue custom events amd NPM usage]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/05/vue-custom-events-2 copy</link>
+            <guid>Vue custom events amd NPM usage</guid>
+            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue custom events and Vue templates practice]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/04/vue-custom-events copy</link>
+            <guid>Vue custom events and Vue templates practice</guid>
+            <pubDate>Thu, 04 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Vue refactor, Vue Cli/templates, Custom Events]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/03/vue-refactor-cli-events</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/03/vue-refactor-cli-events copy</link>
             <guid>Vue refactor, Vue Cli/templates, Custom Events</guid>
             <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

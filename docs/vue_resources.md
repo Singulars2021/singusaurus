@@ -7,6 +7,8 @@ slug: /vue_resources
 ## Free lessons
 
 - Some free lessons at [Vuemaestry.com](https://www.vuemastery.com/courses)
+- [Crash course](https://www.youtube.com/watch?v=GWRvrSqnFbM) about Vue-Cli and Vue components
+
 
 ### Articles
 

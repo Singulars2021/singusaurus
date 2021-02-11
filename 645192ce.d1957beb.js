@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{111:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"vue-cli","name":"vue-cli","count":4,"permalink":"/singusaurus/blog/tags/vue-cli"}')}}]);

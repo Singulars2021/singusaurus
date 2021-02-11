@@ -4,12 +4,26 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 09 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Vue Vuex & Bootstrap]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/11/vuex-bootstrap</link>
+            <guid>Vue Vuex &amp; Bootstrap</guid>
+            <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue routing]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/10/vue-routing copy</link>
+            <guid>Vue routing</guid>
+            <pubDate>Wed, 10 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Vue  components and form communication]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/09/vue-components-communication</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/09/vue-components-communication copy</link>
             <guid>Vue  components and form communication</guid>
             <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

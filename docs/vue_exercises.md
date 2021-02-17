@@ -51,8 +51,8 @@ Simple Calculator which functionallity is made with Vue and does what calculator
 by [Diego Lajusticia](https://github.com/diegolajus/Calculator-Vue)
 
 ## Hex Background Color Changer
-![hex-background-color-changer](/img/hexcolor.png)
+![hexcolor](/img/hexcolor.png)
 
 Change the background color by clicking the button.
 
-by [Lenny Cala](https://github.com/LennyCC/Hex-Color-Background-Changer-Vue)
+Implemented by [Lenny Cala](https://github.com/LennyCC/Hex-Color-Background-Changer-Vue)

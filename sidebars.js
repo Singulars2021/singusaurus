@@ -5,5 +5,6 @@ module.exports = {
     SingSaurus: ['singusaurus'], 
     "Problem Solving": ['problemsolving'],
     "VUE": ['vue_exercises', 'vue_challanges', "vue_resources", 'vue_troubleshooting'],
+    Git: ['git']
   },
 };

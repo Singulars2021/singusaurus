@@ -4,12 +4,40 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 11 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Ajax calls & terminal usage intro]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/03/29/ajax-calls-terminal-intro</link>
+            <guid>Ajax calls &amp; terminal usage intro</guid>
+            <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue Router exercise & finish sprint]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/16/vuex-project</link>
+            <guid>Vue Router exercise &amp; finish sprint</guid>
+            <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue Router exercise & finish sprint]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/15/vue-vuex-project copy</link>
+            <guid>Vue Router exercise &amp; finish sprint</guid>
+            <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue Router exercise & finish sprint]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/12/vue-router-exercise copy</link>
+            <guid>Vue Router exercise &amp; finish sprint</guid>
+            <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Vue Vuex & Bootstrap]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/11/vuex-bootstrap</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/02/11/vuex-bootstrap copy</link>
             <guid>Vue Vuex &amp; Bootstrap</guid>
             <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

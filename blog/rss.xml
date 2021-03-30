@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 29 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terminal commands & OOP JavaScript]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/03/30/terminal-commands-oop-js</link>
+            <guid>Terminal commands &amp; OOP JavaScript</guid>
+            <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Ajax calls & terminal usage intro]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/03/29/ajax-calls-terminal-intro</link>

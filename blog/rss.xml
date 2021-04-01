@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRUD Project - Pair programming]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/01/client-crud-project</link>
+            <guid>CRUD Project - Pair programming</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[SSH - FIND - OOP]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/03/31/ssh-find-oop-js</link>

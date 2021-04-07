@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 01 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introduction to NodeJS]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/07/intro-nodejs</link>
+            <guid>Introduction to NodeJS</guid>
+            <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[CRUD Project - Pair programming]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/01/client-crud-project</link>

@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 08 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Deeper in NodeJS (filesystem and server)]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/09/nodejs-modules</link>
+            <guid>Deeper in NodeJS (filesystem and server)</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Deeper in NodeJS (filesystem and server)]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/08/nodejs-filesystem-server</link>

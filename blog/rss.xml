@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 13 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Express & template engines]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/14/express-template-engines</link>
+            <guid>Express &amp; template engines</guid>
+            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Express framework & NPM]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/13/npm-express</link>
@@ -16,7 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Modules exercise & introduction to Express framework]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/12/exercise-modules-express copy</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/12/exercise-modules-express</link>
             <guid>Modules exercise &amp; introduction to Express framework</guid>
             <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

@@ -4,9 +4,23 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Wed, 14 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MVC & Express Boilerplate Generator]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/16/MVC-express-generator</link>
+            <guid>MVC &amp; Express Boilerplate Generator</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EJS Practice & NodeJS examination]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/15/template-engines-exam</link>
+            <guid>EJS Practice &amp; NodeJS examination</guid>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Express & template engines]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/14/express-template-engines</link>

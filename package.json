@@ -10,6 +10,7 @@
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
+    "deploy:gh": "cmd /C \"set GIT_USER=omiras\" && docsaurus deploy",
     "convert": "mammoth ./converter/document.docx output.html"
   },
   "dependencies": {

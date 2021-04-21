@@ -4,13 +4,34 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 16 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Blueprint, algorithms & databases]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/21/Blueprints-algorithms-database</link>
+            <guid>Blueprint, algorithms &amp; databases</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MVC Practice part 2]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/20/MVC-practice-II-extra-work-assignment</link>
+            <guid>MVC Practice part 2</guid>
+            <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[MVC & Express Boilerplate Generator]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/16/MVC-express-generator</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/19/MVC-practice</link>
             <guid>MVC &amp; Express Boilerplate Generator</guid>
+            <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Photo gallery practice with NodeJS/Express]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/16/MVC-express-generator</link>
+            <guid>Photo gallery practice with NodeJS/Express</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>
         </item>

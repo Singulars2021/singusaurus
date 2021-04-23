@@ -31,9 +31,7 @@ Use the handlebars template engine to write a simple app. Follow this tutorial
 
 1. I was able to use the handlebars engine to render a simple NodeJS/Express app
 2. I updated some of the packages because in the example they were way outdated
-3. I learned that handlebars works slightly different than others template engines. You can define the skeleton of your HTML and the engine will replace the <body> with another .hbs file; depending on the part of the website/app you want to render. 
-
-
+3. I learned that handlebars works slightly different than others template engines. You can define the skeleton of your HTML and the engine will replace the __body__ with another .hbs file; depending on the part of the website/app you want to render. 
 
 ## Use some library to create an app with geospatial manipulation data. Difficulty: High
 
@@ -73,13 +71,13 @@ Prerequisites: you may need to learn about how Sockets work to implement this - 
 
 [Tutorial](https://www.youtube.com/watch?v=DvlyzDZDEq4&t=1554s)
 
-## Implement a real-time chat 
+## Implement a real-time chat. Difficulty: Medium
 
 Prerequisites: you may need to learn about how Sockets work to implement this - [Link](https://www.youtube.com/watch?v=soerr09FYCw)
 
 [Tutorial](https://www.youtube.com/watch?v=rxzOqP9YwmM)
 
-## Write some automated tests for a given app (or use TDD to create an app)
+## Write some automated tests for a given app (or use TDD to create an app). Difficulty: Medium
 
 [Tutorial](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
 

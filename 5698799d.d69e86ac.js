@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{134:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"framworks-css","name":"framworks css","count":1,"permalink":"/singusaurus/blog/tags/framworks-css"}')}}]);

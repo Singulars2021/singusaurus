@@ -77,6 +77,16 @@ Prerequisites: you may need to learn about how Sockets work to implement this - 
 
 [Tutorial](https://www.youtube.com/watch?v=rxzOqP9YwmM)
 
+### Author
+
+- [Marc Bellido](https://github.com/mbellydo)
+- [Github project](https://github.com/mbellydo/real-time-chat-app)
+
+### Summary
+
+1. I was able to learn how to use the sockets library
+2. I learned that with sockets can create a two-way communication app, a link between two programs running on the network.
+
 ## Write some automated tests for a given app (or use TDD to create an app). Difficulty: Medium
 
 [Tutorial](https://www.youtube.com/watch?v=r9HdJ8P6GQI)

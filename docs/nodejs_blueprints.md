@@ -65,6 +65,17 @@ Follow this tutorial to implement authentication using Google - [Link](https://w
 
 Follow this tutorial to implement authentication using the Passport library  - [Link](https://www.youtube.com/watch?v=-RCnNyD0L-s)
 
+### Author
+
+- [Daniel Ruiz](https://github.com/DanielRS2219)
+- [Github project](https://github.com/DanielRS2219/authentication_passport_library)
+
+### Summary
+
+1. I was able to learn how to use the Passport library
+2. I learned how authenticate and register a user in a simple program.
+3. I also set rules like not logging in twice, not registering a new user while the session is active, and not going to the main page if not registered.
+
 ## Figure out how to stream video with Sockets - Difficulty: High
 
 Prerequisites: you may need to learn about how Sockets work to implement this - [Link](https://www.youtube.com/watch?v=soerr09FYCw)

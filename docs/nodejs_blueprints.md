@@ -91,6 +91,22 @@ Prerequisites: you may need to learn about how Sockets work to implement this - 
 
 [Tutorial](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
 
+
+Use the handlebars template engine to write a simple app. Follow this tutorial
+
+### Author
+
+- [Kevin Salcedo](https://github.com/kevinsalcedoUab)
+- [Github project](https://github.com/kevinsalcedoUab/Blueprint-Test)
+
+### Summary
+
+1. I was able to apply the different types of tests (unit test, integration test, E2E test) in the app. 
+2. I learned the advantages about apply test to your code.
+3. TDD consist in build the code from the test.
+
+
+
 ## Consume a REST API from a server-side app. Two projects: custom implementation and using node-fetch package
 
 Learn how to consume a REST API from a NodeJS App implementing an app to retrieve weather data - [Tutorial](https://www.youtube.com/watch?v=ZtLVbJk7KcM) 

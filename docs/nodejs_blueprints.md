@@ -111,6 +111,16 @@ Use the handlebars template engine to write a simple app. Follow this tutorial
 
 Learn how to consume a REST API from a NodeJS App implementing an app to retrieve weather data - [Tutorial](https://www.youtube.com/watch?v=ZtLVbJk7KcM) 
 
+### Author
+
+- [Carlos Marruedo](https://github.com/CarlosMarruedo)
+- [Github project](https://github.com/CarlosMarruedo/Blueprint-node-fetch-example)
+
+### Summary
+
+1. I was able to learn why CORS blocks client side request to other APIs.
+2. I was able to learn how to request information from other APIs from my server and what variables I need to take into account.
+
 ## Find some useful boilerplates for common NodeJS/Express apps - Difficulty: Easy
 
 Attach some links with useful boilerplates to build NodeJS/Express/MongoDB application

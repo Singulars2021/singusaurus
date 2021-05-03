@@ -4,12 +4,19 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 30 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[More on Mongoose / Blueprints day 3]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/30/Mongoose-blueprints-iii</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/03/Mongoose-meeting-agile</link>
+            <guid>More on Mongoose / Blueprints day 3</guid>
+            <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[More on Mongoose / Blueprints day 3]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/04/30/Mongoose-blueprints-iii copy</link>
             <guid>More on Mongoose / Blueprints day 3</guid>
             <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>

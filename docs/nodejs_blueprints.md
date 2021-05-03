@@ -82,6 +82,16 @@ Prerequisites: you may need to learn about how Sockets work to implement this - 
 
 [Tutorial](https://www.youtube.com/watch?v=DvlyzDZDEq4&t=1554s)
 
+### Author
+
+- [Xiande Qiu](https://github.com/Xiande-zx)
+- [Github project](https://github.com/Xiande-zx/socketProject)
+
+### Summary
+
+1. I was able to learn how to use the sockets library and peer library.
+2. I learned how WebRTC works.
+
 ## Implement a real-time chat. Difficulty: Medium
 
 Prerequisites: you may need to learn about how Sockets work to implement this - [Link](https://www.youtube.com/watch?v=soerr09FYCw)

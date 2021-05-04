@@ -4,13 +4,20 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 03 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Not strcutred MVV project - Project Start]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/03/Mongoose-meeting-agile</link>
-            <guid>Not strcutred MVV project - Project Start</guid>
+            <title><![CDATA[Mongoose & relations - Intro to agile development]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/04/Mongoose-relations-agile</link>
+            <guid>Mongoose &amp; relations - Intro to agile development</guid>
+            <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Not strcutred MVC project - Project Start]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/03/Mongoose-meeting</link>
+            <guid>Not strcutred MVC project - Project Start</guid>
             <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>
         </item>

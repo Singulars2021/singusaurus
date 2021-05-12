@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 11 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HTML5 - CSS - Challange]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/12/html5-boxmodel-css-specifity</link>
+            <guid>HTML5 - CSS - Challange</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[HTML5 - CSS - Intro Programming]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/11/html5-css-intro-programming</link>

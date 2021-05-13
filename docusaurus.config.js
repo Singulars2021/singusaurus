@@ -24,6 +24,8 @@ module.exports = {
           position: "left",
         },
         { to: "blog", label: "Daily", position: "left" },
+        {to: 'blog', label: 'Daily - FOAP 2021', position: 'left'}, // or position: 'right'
+
         {
           href: "https://github.com/Singulars2021/singusaurus",
           label: "GitHub",

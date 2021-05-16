@@ -43,6 +43,17 @@ Follow [this tutorial](https://www.youtube.com/watch?v=Zy89Nj7tNNM). It also inc
 
 Follow [this tutorial](https://www.youtube.com/watch?v=hE5zeEiVqpw). It is funny to watch Maximilian 5 years ago :). It also includes some __session__ practice. Be aware that some of the libraries may be outdated by now and you must do use them slightly different. Also, it is fun because it uses the __handlebeas__ engine. 
 
+### Author
+
+- [Fran Ariño](https://github.com/fraanfx)
+- [Github project](https://github.com/fraanfx/Blueprint-Express-Validation-Session)
+
+### Summary
+
+1. I was able to implement input validation in a Node/Express app and to store data with sessions.
+2. I updated some of the packages because in the example they were way outdated.
+3. I learned how to validate user information on server side and how store it in session.
+
 ## Use a third-party library to send emails. Difficulty: Easy
 
 Use the well-known __nodemailer__ library to learn how to send emails with NodeJS. [Tutorial](https://www.youtube.com/watch?v=wu-1LpCyu1Y).

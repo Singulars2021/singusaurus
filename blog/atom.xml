@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Singulars2021.github.io/blog</id>
     <title>SinguSaurus Blog</title>
-    <updated>2021-05-17T00:00:00.000Z</updated>
+    <updated>2021-05-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Singulars2021.github.io/blog"/>
     <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Intro programming & client-server communication]]></title>
+        <id>Intro programming &amp; client-server communication</id>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2021/05/18/intro-programming-fetch-dom"/>
+        <updated>2021-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frontend Mentor Challenge with pair programming]]></title>
         <id>Frontend Mentor Challenge with pair programming</id>

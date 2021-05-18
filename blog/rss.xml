@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 17 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Intro programming & client-server communication]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/18/intro-programming-fetch-dom</link>
+            <guid>Intro programming &amp; client-server communication</guid>
+            <pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Frontend Mentor Challenge with pair programming]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/17/frontendmentor-challange.doc</link>

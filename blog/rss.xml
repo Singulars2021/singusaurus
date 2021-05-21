@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 20 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Creating servers with NodeJS & JavaScript functions]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/21/nodejs-servers-querystring-functions</link>
+            <guid>Creating servers with NodeJS &amp; JavaScript functions</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Creating servers with NodeJS & JavaScript functions]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/20/loop-for-nodejs-intro</link>

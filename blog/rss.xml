@@ -4,13 +4,20 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Tue, 25 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Creating servers with NodeJS & JavaScript functions]]></title>
+            <title><![CDATA[NPM exercise & JavaScript Classes]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/26/npm-exercises-js-oop</link>
+            <guid>NPM exercise &amp; JavaScript Classes</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NPM, NodeJS Modules & JavaScript Objects]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/25/js-objects-nodejs-fs-npm</link>
-            <guid>Creating servers with NodeJS &amp; JavaScript functions</guid>
+            <guid>NPM, NodeJS Modules &amp; JavaScript Objects</guid>
             <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>
         </item>

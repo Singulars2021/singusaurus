@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Singulars2021.github.io/blog</id>
     <title>SinguSaurus Blog</title>
-    <updated>2021-05-25T00:00:00.000Z</updated>
+    <updated>2021-05-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Singulars2021.github.io/blog"/>
     <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Creating servers with NodeJS & JavaScript functions]]></title>
-        <id>Creating servers with NodeJS &amp; JavaScript functions</id>
+        <title type="html"><![CDATA[NPM exercise & JavaScript Classes]]></title>
+        <id>NPM exercise &amp; JavaScript Classes</id>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2021/05/26/npm-exercises-js-oop"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPM, NodeJS Modules & JavaScript Objects]]></title>
+        <id>NPM, NodeJS Modules &amp; JavaScript Objects</id>
         <link href="https://Singulars2021.github.io/singusaurus/blog/2021/05/25/js-objects-nodejs-fs-npm"/>
         <updated>2021-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>

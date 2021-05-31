@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 28 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JavaScript Classes & Express EJS]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/31/class-exercises-express-project</link>
+            <guid>JavaScript Classes &amp; Express EJS</guid>
+            <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript Classes & Express framework]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/05/28/js-classes-express-ejs</link>

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[230],{301:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"responsive","name":"responsive","count":1,"permalink":"/singusaurus/blog/tags/responsive"}')}}]);

@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 04 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JavaScript Static Classes & MVC]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/07/mvc-static-classes</link>
+            <guid>JavaScript Static Classes &amp; MVC</guid>
+            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript Static Classes & MVC]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/04/js-classes-static-examen-review</link>

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[89],{159:function(o){o.exports=JSON.parse('{"permalink":"/singusaurus/blog","page":1,"postsPerPage":10,"totalPages":7,"totalCount":67,"previousPage":null,"nextPage":"/singusaurus/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

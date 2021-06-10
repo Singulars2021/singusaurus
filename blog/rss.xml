@@ -4,9 +4,30 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 07 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Accesing MongoDB from NodeJS]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/10/nodejs-native-driver</link>
+            <guid>Accesing MongoDB from NodeJS</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MVC with multiple models]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/09/testing-class-intro-mongodb</link>
+            <guid>MVC with multiple models</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MVC with multiple models]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/08/mvc-two-entities</link>
+            <guid>MVC with multiple models</guid>
+            <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript Static Classes & MVC]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/07/mvc-static-classes</link>

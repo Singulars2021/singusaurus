@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[139],{210:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"software-patterns","name":"software patterns","count":4,"permalink":"/singusaurus/blog/tags/software-patterns"}')}}]);

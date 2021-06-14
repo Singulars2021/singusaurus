@@ -4,9 +4,23 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Thu, 10 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mongoose Introduction]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/14/nodejs-intro-mongoose</link>
+            <guid>Mongoose Introduction</guid>
+            <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Accesing MongoDB from NodeJS]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/11/nodejs-mongodb-express</link>
+            <guid>Accesing MongoDB from NodeJS</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Accesing MongoDB from NodeJS]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/10/nodejs-native-driver</link>

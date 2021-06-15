@@ -4,9 +4,16 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 14 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mongoose Introduction]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/15/mongoose-validation</link>
+            <guid>Mongoose Introduction</guid>
+            <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
         <item>
             <title><![CDATA[Mongoose Introduction]]></title>
             <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/14/nodejs-intro-mongoose</link>

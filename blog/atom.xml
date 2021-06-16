@@ -8,8 +8,8 @@
     <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Mongoose Introduction]]></title>
-        <id>Mongoose Introduction</id>
+        <title type="html"><![CDATA[Mongoose Validation]]></title>
+        <id>Mongoose Validation</id>
         <link href="https://Singulars2021.github.io/singusaurus/blog/2021/06/15/mongoose-validation"/>
         <updated>2021-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[borderRadius: '2px',]]></summary>

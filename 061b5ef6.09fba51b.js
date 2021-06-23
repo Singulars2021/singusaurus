@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{81:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"boilerplates","name":"boilerplates","count":2,"permalink":"/singusaurus/blog/tags/boilerplates"}')}}]);

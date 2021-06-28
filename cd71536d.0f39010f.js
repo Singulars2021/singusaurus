@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[244],{313:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"hosted-databases","name":"hosted databases","count":1,"permalink":"/singusaurus/blog/tags/hosted-databases"}')}}]);

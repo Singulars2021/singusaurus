@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[167],{238:function(a){a.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"kanban","name":"kanban","count":2,"permalink":"/singusaurus/blog/tags/kanban"}')}}]);

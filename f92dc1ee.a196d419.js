@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[286],{356:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"transitions","name":"transitions","count":2,"permalink":"/singusaurus/blog/tags/transitions"}')}}]);

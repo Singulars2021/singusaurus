@@ -4,13 +4,27 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Mon, 28 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Regular expressions & patterns]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/07/07/regex</link>
+            <guid>Regular expressions &amp; patterns</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
             <title><![CDATA[Git branches & Agile User Stories]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/28/git-user-stories</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/29/git-branches-markdown</link>
             <guid>Git branches &amp; Agile User Stories</guid>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[borderRadius: '2px',]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Git Revert & Project Initial Structure]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2021/06/28/git-user-stories</link>
+            <guid>Git Revert &amp; Project Initial Structure</guid>
             <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[borderRadius: '2px',]]></description>
         </item>

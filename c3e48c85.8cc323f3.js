@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[236],{306:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"css-units","name":"css units","count":1,"permalink":"/singusaurus/blog/tags/css-units"}')}}]);

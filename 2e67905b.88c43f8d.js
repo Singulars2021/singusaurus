@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{133:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"alter-sql-tables","name":"alter sql tables","count":1,"permalink":"/singusaurus/blog/tags/alter-sql-tables"}')}}]);

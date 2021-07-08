@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[153],{224:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"scrum","name":"scrum","count":1,"permalink":"/singusaurus/blog/tags/scrum"}')}}]);

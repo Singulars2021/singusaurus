@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[123],{193:function(s){s.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"join","name":"join","count":1,"permalink":"/singusaurus/blog/tags/join"}')}}]);

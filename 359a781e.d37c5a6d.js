@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{144:function(a){a.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"acceptance-criteria","name":"acceptance criteria","count":1,"permalink":"/singusaurus/blog/tags/acceptance-criteria"}')}}]);

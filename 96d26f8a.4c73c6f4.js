@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[186],{257:function(a){a.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"challenge","name":"challenge","count":2,"permalink":"/singusaurus/blog/tags/challenge"}')}}]);

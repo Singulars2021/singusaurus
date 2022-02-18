@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{98:function(a){a.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"agile","name":"agile","count":3,"permalink":"/singusaurus/blog/tags/agile"}')}}]);

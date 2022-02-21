@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{141:function(a){a.exports=JSON.parse('{"allTagsPath":"/singusaurus/blog/tags","slug":"background-images","name":"background images","count":1,"permalink":"/singusaurus/blog/tags/background-images"}')}}]);

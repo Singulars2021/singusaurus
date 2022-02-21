@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Singulars2021.github.io/blog</id>
     <title>SinguSaurus Blog</title>
-    <updated>2022-02-18T00:00:00.000Z</updated>
+    <updated>2022-02-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Singulars2021.github.io/blog"/>
     <subtitle>SinguSaurus Blog</subtitle>
     <icon>https://Singulars2021.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Background image and display]]></title>
+        <id>Background image and display</id>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2022/02/21/background-image-display"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<span]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Box Model and CSS Units]]></title>
         <id>Box Model and CSS Units</id>
-        <link href="https://Singulars2021.github.io/singusaurus/blog/2022/02/18/box-model-css-units"/>
+        <link href="https://Singulars2021.github.io/singusaurus/blog/2022/02/18/box-model-css-units copy"/>
         <updated>2022-02-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<span]]></summary>
     </entry>

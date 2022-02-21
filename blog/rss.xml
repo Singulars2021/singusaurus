@@ -4,12 +4,19 @@
         <title>SinguSaurus Blog</title>
         <link>https://Singulars2021.github.io/blog</link>
         <description>SinguSaurus Blog</description>
-        <lastBuildDate>Fri, 18 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Background image and display]]></title>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2022/02/21/background-image-display</link>
+            <guid>Background image and display</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[<span]]></description>
+        </item>
+        <item>
             <title><![CDATA[Box Model and CSS Units]]></title>
-            <link>https://Singulars2021.github.io/singusaurus/blog/2022/02/18/box-model-css-units</link>
+            <link>https://Singulars2021.github.io/singusaurus/blog/2022/02/18/box-model-css-units copy</link>
             <guid>Box Model and CSS Units</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[<span]]></description>
